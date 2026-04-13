@@ -81,7 +81,7 @@ github "LeoMobileDeveloper/PullToRefreshKit"
 Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/Heartkage/PullToRefreshKit.git",  from: "0.9.0")
+.package(url: "https://github.com/leochien0923/PullToRefreshKit.git",  from: "0.9.0")
 ```
 
 ## Useage
